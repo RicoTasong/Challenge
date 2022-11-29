@@ -1,0 +1,77 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	
+}
+
+body{
+	font-family: 'Inter', sans-serif;
+	font-size: 13px;
+	background-color: #FEFDF9;	
+}
+
+.side-panel{
+	background-color: #00011A;
+
+}
+
+nav img{
+	width: 80px;
+}
+
+section button{
+	background-color: #EF5E53;
+	color: white;
+	letter-spacing: 4px;
+	font-size: 13px;
+	padding: 10px 50px 10px 50px;
+}
+
+section button:hover{
+	background-color: #00011A;
+}
+
+.border_bot{
+	background-color: white;
+}
+
+.text_h1{
+	font-weight: 800;
+	font-size: 42px;
+}
+
+.text_h2{
+	font-size: 14px;
+}
+
+.text_3{
+	font-size: 18px;
+}
+
+.text-font-weight{
+	font-weight: 200;
+}
+
+.text_color1{
+	color: #DDA567;
+}
+.text_color2{
+	color: #00011A;
+}
+
+.container .img_size{
+	width: 150px;
+	height: 150px;
+}
+
+
+
+
+/*<div class="col-lg-8 col-md-12  d-md-block px-4 px-md-0 px-lg-4 mb-lg-0 mb-md-5">*/
+
+/*<div class="col-lg-4 col-md-12 col-sm-12 d-md-block side-panel px-0  mx-md-0 mt-md-0 mb-md-0 mx-sm-4 mt-sm-3 mb-sm-4  m-sm-auto">	*/
+
+/*<div class="mx-4 mt-3 mb-4 border-bot_css">*/
+
+/*<div class="row d-flex flex-column justify-content-center align-items-center col-lg-4 col-md-12 col-sm-12 d-md-block side-panel">*/
